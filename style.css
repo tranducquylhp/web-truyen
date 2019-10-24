@@ -1,0 +1,96 @@
+#main{
+    top: 0px;
+}
+#head{
+    top: 0px;
+    height: 50px;
+    width: 100%;
+    background: antiquewhite;
+    position: relative;
+}
+
+#logo{
+    width: 15%;
+    top: 5px;
+    text-align: center;
+    position: relative;
+    float: left;
+}
+
+#search{
+    width: 30%;
+    float: right;
+    top: 10px;
+    position: relative;
+}
+
+#head-link{
+    height: 50px;
+    width: 100%;
+    clear: both;
+    background: gray;
+}
+
+.title{
+    height: 30px;
+    width: 12%;
+    margin: 5px;
+    float: left;
+    position: relative;
+    left: 20px;
+}
+
+#left{
+    height: 500px;
+    width: 15%;
+    border-left: black;
+    float: left;
+}
+
+h4{
+    margin: 20px;
+    text-align: center;
+
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    background: red;
+    color: blue;
+}
+#content{
+    height: 980px;
+    width: 85%;
+    float: left;
+}
+#footer{
+    height: 50px;
+    width: 100%;
+    clear: both;
+}
+
+
+
+.truyen{
+    height: 200px;
+    width: 17%;
+    margin: 10px;
+    border: black;
+    float: left;
+    background: white;
+    position: relative;
+}
+.img{
+    height: 80%;
+    width: 60%;
+    position: relative;
+    padding-left: 35px;
+    float: left;
+}
+.titleImg{
+    position: relative;
+    text-align: center;
+    margin-top: 5px;
+}
+
